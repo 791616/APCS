@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ @author\ (Tristan\ Barry\ Schnur)\ \r\n\ @version\ (1126)\r\n
+comment1.params=a
+comment1.target=Cell(int)
+comment2.params=
+comment2.target=int\ getInt()
+comment3.params=index\ num
+comment3.target=void\ setNeighbors(int,\ int)
+comment4.params=
+comment4.target=Cell[]\ getNeighbors()
+numComments=5
